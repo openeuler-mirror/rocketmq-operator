@@ -1,7 +1,7 @@
 # rocketmq-operator
 
 #### 介绍
-RocketMQ Operator is to manage RocketMQ service instances deployed on the Kubernetes cluster. It is built using the Operator SDK, which is part of the Operator Framework.
+Roperator是一个用于在Kubernetes环境中管理RocketMQ集群的工具
 
 #### 软件架构
 软件架构说明
@@ -27,11 +27,18 @@ RocketMQ Operator is to manage RocketMQ service instances deployed on the Kubern
 4.  新建 Pull Request
 
 
-#### 特技
+## License
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+Copyright (c) 2023. China Mobile(SuZhou)Software Technology Co.,Ltd. All rights reserved.
+
+ seecScanner is licensed under Mulan PSL v2.
+
+You can use this software according to the terms and conditions of the Mulan PSL v2.
+You may obtain a copy of Mulan PSL v2 at:
+
+ http://license.coscl.org.cn/MulanPSL2
+
+THIS SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND,
+EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT,
+MERCHANTABILITY OR FIT FOR A PARTICULAR PURPOSE.
+See the Mulan PSL v2 for more details.
