@@ -4,13 +4,14 @@
 RocketMQ Operator is to manage RocketMQ service instances deployed on the Kubernetes cluster. It is built using the Operator SDK, which is part of the Operator Framework.
 
 #### Software Architecture
-Software architecture description
-
+![rocketmq-operator architecture png](docs/pictures/rocketmq-operator.png)
 #### Installation
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1. Install CRD resource
+`make install`
+
+2. Deploy ROperator
+`make deploy`
 
 #### Instructions
 
