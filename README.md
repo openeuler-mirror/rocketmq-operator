@@ -4,14 +4,15 @@
 Roperator是一个用于在Kubernetes环境中管理RocketMQ集群的工具
 
 #### 软件架构
-软件架构说明
+![rocketmq-operator架构图](docs/pictures/rocketmq-operator.png)
 
 
 #### 安装教程
+1. Install CRD resource
+`make install`
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+2. Deploy ROperator
+`make deploy`
 
 #### 使用说明
 
